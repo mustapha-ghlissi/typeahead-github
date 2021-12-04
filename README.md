@@ -1,5 +1,5 @@
 # App preview
-Search github users
+Search github users.\
 ![alt text](./preview.png)
 
 # Getting Started with Create React App
