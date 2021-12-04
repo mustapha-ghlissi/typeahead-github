@@ -13,6 +13,10 @@ html, body {
   max-height: 330px;
 }
 
+.list-users li {
+  border-bottom: 1px dotted #e2e2e2;
+}
+
 .user-link:hover {
   background-color: #e2e2e2;
 }

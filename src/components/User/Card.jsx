@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
 function Card({user}) {
   return (
@@ -16,10 +15,6 @@ function Card({user}) {
       </a>
     </li>
   )
-}
-
-Card.propTypes = {
-
 }
 
 export default Card
