@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.app-wrapper {
+  margin: 5% auto;
+}
+
+.list-users {
+  height: auto;
+  overflow-y: auto;
+  max-height: 330px;
+}
+
+.user-link:hover {
+  background-color: #e2e2e2;
+}
